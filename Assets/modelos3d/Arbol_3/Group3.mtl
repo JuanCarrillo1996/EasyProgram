@@ -1,0 +1,49 @@
+newmtl CherryTrunk
+Ka 0 0 0
+Ns 13.1971
+Ks 1 1 1
+Kd 0.357724 0.331466 0.291301
+map_Kd CherryTrunk.jpg
+map_Bump CherryTrunk_b.jpg
+newmtl Maple_Leaf0
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.148591 0.235845 0.0909773
+map_Kd Maple_Leaf0_1.jpg
+map_Bump Maple_Leaf_b0_1.jpg
+newmtl Yellow_Maple_Lea
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.464769 0.239297 0.00545545
+map_Kd Yellow_Maple_Le0_2.jpg
+map_Bump Yellow_Maple_Le1_2.jpg
+newmtl Red_Maple_Leaf
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.547574 0.0809043 0.0078005
+map_Kd Red_Maple_Leaf_3.jpg
+map_Bump Red_Maple_Leaf_b_3.jpg
+newmtl Leaf_Acacia
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.0776759 0.110264 0.1245
+map_Kd Leaf_Acacia_4.jpg
+map_Bump Leaf_Acacia_b_4.jpg
+newmtl Maple_Leaf1
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.148591 0.235845 0.0909773
+map_Kd Maple_Leaf1_5.jpg
+map_Bump Maple_Leaf_b1_5.jpg
+newmtl Leaf_Palm
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.122357 0.168878 0.0496523
+map_Kd Leaf_Palm_6.jpg
+map_Bump Leaf_Palm_b_6.jpg
